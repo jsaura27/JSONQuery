@@ -1,0 +1,47 @@
+CREATE TABLE Input ( `list_Name` VARCHAR(6) CHARACTER SET utf8, `list_AlarmColor` INT, `list_Id` INT, `list_Parameters_Key` VARCHAR(40) CHARACTER SET utf8, `list_Parameters_Value` VARCHAR(11) CHARACTER SET utf8, `list_DatasourcesCount` INT, `list_alertIcon` VARCHAR(14) CHARACTER SET utf8, `list_ElementCount` INT, `list_UniqueID` VARCHAR(36) CHARACTER SET utf8 ); 
+INSERT INTO Input Values (Site 1,-1671296,8,Name,Site 1,0Communications640null); 
+
+INSERT INTO Input Values (Site 1,-1671296,8,Peak Power,6410.88,0Communications640null); 
+
+INSERT INTO Input Values (Site 1,-1671296,8,Description,6410.88 kW,0Communications640null); 
+
+INSERT INTO Input Values (Site 1,-1671296,8,Situation,England,0Communications640null); 
+
+INSERT INTO Input Values (Site 1,-1671296,8,Panel Degradation Correction Coefficient,0.7,0Communications640null); 
+
+INSERT INTO Input Values (Site 1,-1671296,8,Temperature Correction Coefficient,-0.41,0Communications640null); 
+
+INSERT INTO Input Values (Site 2,-256,4,Name,Site 2,0Warning514null); 
+
+INSERT INTO Input Values (Site 2,-256,4,Peak Power,4010.16,0Warning514null); 
+
+INSERT INTO Input Values (Site 2,-256,4,Nominal Power,3355,0Warning514null); 
+
+INSERT INTO Input Values (Site 2,-256,4,Description,4010.160 kW,0Warning514null); 
+
+INSERT INTO Input Values (Site 2,-256,4,Panel Degradation Correction Coefficient,0.7,0Warning514null); 
+
+INSERT INTO Input Values (Site 2,-256,4,Temperature Correction Coefficient,-0.41,0Warning514null); 
+
+INSERT INTO Input Values (Site 3,-256,10,Name,Site 3,0Communications753null); 
+
+INSERT INTO Input Values (Site 3,-256,10,Peak Power,7257.6,0Communications753null); 
+
+INSERT INTO Input Values (Site 3,-256,10,Nominal Power,5250,0Communications753null); 
+
+INSERT INTO Input Values (Site 3,-256,10,Description,7.257,6 kW,0Communications753null); 
+
+INSERT INTO Input Values (Site 3,-256,10,Panel Degradation Correction Coefficient,0.7,0Communications753null); 
+
+INSERT INTO Input Values (Site 3,-256,10,Temperature Correction Coefficient,-0.41,0Communications753null); 
+
+INSERT INTO Input Values (Site 4,-256,11,Name,Site 4,0Warning1938null); 
+
+INSERT INTO Input Values (Site 4,-256,11,Peak Power,20930.4,0Warning1938null); 
+
+INSERT INTO Input Values (Site 4,-256,11,Description,20930.4 kW,0Warning1938null); 
+
+INSERT INTO Input Values (Site 4,-256,11,Panel Degradation Correction Coefficient,0.7,0Warning1938null); 
+
+INSERT INTO Input Values (Site 4,-256,11,Temperature Correction Coefficient,-0.41,0Warning1938null); 
+

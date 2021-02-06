@@ -1,0 +1,9 @@
+This program for the translation of JSON Objects to MySQL queries uses the json.simple library for the easy management of the JSON file.
+
+To use this program you just need to run the main method.
+It will ask for an input file, if the file it's empty it will tell you and you should run it again.
+If the file is not empty it will ask for an output file. 
+If there is no output file inputed it will show everything on the command line.
+If there is, it will fill that file with all the queries. 
+
+There is a JUnit tester inside the program for testing. 
